@@ -2,8 +2,7 @@
 
 This is an implementation of our paper "Rotational Variance-Based Data Augmentation in 3D Graph Convolutional Network":
 
-Jihoo Kim, Yeji Kim, Eok Kyun Lee, Chong Hak Chae, Kwangho Lee, Won June Kim, Insung S. Choi, [Rotational Variance-Based Data Augmentation in 3D Graph Convolutional Network] (Chem. Asian J. 2021) (submitted)
-
+Jihoo Kim, Yeji Kim, Eok Kyun Lee, Chong Hak Chae, Kwangho Lee, Won June Kim, Insung S. Choi, [Rotational Variance-Based Data Augmentation in 3D Graph Convolutional Network] (Chem. Asian J. 2021, 16(18), 2610-2613.)
 
 ## Requirements
 
